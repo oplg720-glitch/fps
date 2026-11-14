@@ -1,0 +1,8 @@
+Đích build: Minecraft Java 26.1.2 / Fabric Loader 0.19.2 / Fabric API 0.155.3+26.1.2
+Java yêu cầu: JDK 25
+Gradle yêu cầu: 9.4.1
+
+Gói này chứa toàn bộ mã nguồn project mod, chưa phải file .jar đã biên dịch.
+Môi trường tạo file hiện tại chỉ có Java 21 và không có Gradle; vì vậy không thể
+biên dịch hoặc chạy thử JAR 26.1.2 ngay trong môi trường này. Hãy build project
+trên máy có JDK 25 theo hướng dẫn trong README.md.
